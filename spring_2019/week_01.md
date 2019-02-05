@@ -1,24 +1,25 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+> This past week I was getting setup with submitty and I designed a homework for CS 1 based around \
+> classes and objects. 
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> The objective of the homework is to teach simple classes with private instance variables \
+> constructors and toString methods.
+
+> In addition to that they will need to do simple File IO in java.
+
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+> I plan to fininalize this homework but doing finishing touches on the homework description pdf \
+> as well as create an auto grader for the homework with a guide for instructions to to create a new \
+> gradable on submitty
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+> I am waiting to upload my assignments to the github but the submitty repo doesnt have a place for me to push them \
+> at the moment. Professor Cutler said she would do that part, though so it not really blocking.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> None
